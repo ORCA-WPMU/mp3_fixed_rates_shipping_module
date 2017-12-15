@@ -1,8 +1,8 @@
-# mp3_fixed_rates_shipping_module
+# MarketPress 3 Fixed Rates Shipping Module
 
 Fixed shipping rates for MarketPress v3
 
-Allows dixed shipping rates to be entered such as;
+Allows fixed shipping rates to be entered such as;
 
 Standard - £10.00
 Express - £15.00
